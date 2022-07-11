@@ -1,0 +1,39 @@
+body{
+    background-color:#5c8471;
+    text-align: center;
+}
+
+input{
+    margin: 100px auto 100px;
+    font-size: 25px;
+    background-color: rgb(162, 156, 148);
+    width: 350px;
+    height: 40px;
+    display: block;
+    text-align: center;
+}
+
+#output_num{
+    margin-top: 45px;
+    width: 100px;
+    background: lightgreen;
+    margin: 100px auto 100px;
+
+}
+
+#add{
+    width: 350px;
+    height: 80px;
+    color: rgb(249, 248, 248);
+    background-color:blue;
+    border-style: none;
+    border-radius: 15px;
+    margin-top: 100px;
+    /* margin-left: 385px; */
+}
+
+h1{
+    
+    color: rgb(68, 4, 5);
+    margin-top: 40px;
+}
